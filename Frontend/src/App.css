@@ -1,0 +1,27 @@
+.body{
+    background-image: url('login-bg.jpg');
+}
+.input-group {
+    display: flex;
+    flex-direction: column;
+    max-width: 150px;
+    margin-bottom: 15px;
+    border-radius: 1px solid #141212ff;
+}
+table th, tr, td{
+    border: 1px solid #141212ff;
+}
+form {
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  max-width: 900px;
+}
+.links {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+    color: chartreuse;
+}

@@ -1,0 +1,13 @@
+.body{
+    background-image: url('login-bg.jpg');
+}
+.input-group {
+    display: flex;
+    flex-direction: column;
+    max-width: 150px;
+    margin-bottom: 15px;
+    border-radius: 1px solid #141212ff;
+}
+th, tr, td{
+    border: 1px solid #141212ff;
+}
